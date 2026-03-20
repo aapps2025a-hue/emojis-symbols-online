@@ -1,4 +1,12 @@
 [
+    {
+    "codes": "1F600",
+    "char": "A",
+    "name": "Powered By emojis-symbols.online",
+    "category": "INFO",
+    "group": "A-Emojis Symbols",
+    "subgroup": "face-smiling"
+  },
   {
     "codes": "1F600",
     "char": "😀",
