@@ -26247,6 +26247,7 @@
     "group": "People & Body",
     "subgroup": "family"
   },
+  { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F9D1 1F3FF 200D 2764 200D 1F9D1 1F3FE",
     "char": "🧑🏿‍❤‍🧑🏾",
@@ -32735,6 +32736,7 @@
     "group": "Activities",
     "subgroup": "sport"
   },
+  { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F3F8",
     "char": "🏸",
@@ -40263,6 +40265,7 @@
     "group": "Flags",
     "subgroup": "subdivision-flag"
   },
+  { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F3F4 E0067 E0062 E0077 E006C E0073 E007F",
     "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
