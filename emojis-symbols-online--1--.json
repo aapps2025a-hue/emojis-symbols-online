@@ -5,7 +5,7 @@
     "name": "Powered By emojis-symbols.online",
     "category": "INFO",
     "group": "A-Emojis Symbols",
-    "subgroup": "face-smiling"
+    "subgroup": "face-smiling, Ad"
   },
   {
     "codes": "1F600",
@@ -223,6 +223,7 @@
     "group": "Smileys & Emotion",
     "subgroup": "face-tongue"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F92A",
     "char": "🤪",
@@ -303,6 +304,7 @@
     "group": "Smileys & Emotion",
     "subgroup": "face-hand"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F910",
     "char": "🤐",
@@ -583,6 +585,7 @@
     "group": "Smileys & Emotion",
     "subgroup": "face-unwell"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F92F",
     "char": "🤯",
@@ -783,6 +786,7 @@
     "group": "Smileys & Emotion",
     "subgroup": "face-concerned"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F62D",
     "char": "😭",
@@ -1151,6 +1155,7 @@
     "group": "Smileys & Emotion",
     "subgroup": "heart"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F49F",
     "char": "💟",
@@ -4975,6 +4980,7 @@
     "group": "People & Body",
     "subgroup": "person"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F469 1F3FE 200D 1F9B0",
     "char": "👩🏾‍🦰",
@@ -14471,6 +14477,7 @@
     "group": "People & Body",
     "subgroup": "person-fantasy"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F9DB 1F3FC 200D 2640 FE0F",
     "char": "🧛🏼‍♀️",
@@ -25375,6 +25382,7 @@
     "group": "People & Body",
     "subgroup": "family"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F468 1F3FE 200D 2764 200D 1F48B 200D 1F468 1F3FE",
     "char": "👨🏾‍❤‍💋‍👨🏾",
@@ -30063,6 +30071,7 @@
     "group": "Food & Drink",
     "subgroup": "drink"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F376",
     "char": "🍶",
@@ -37079,6 +37088,7 @@
     "group": "Symbols",
     "subgroup": "other-symbol"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "303D",
     "char": "〽",
@@ -40271,6 +40281,7 @@
     "group": "Flags",
     "subgroup": "subdivision-flag"
   },
+    { "codes": "1F600", "char": "A", "name": "powered by emojis-symbols.online", "group": "Advertisement", "subgroup": "Ad" },
   {
     "codes": "1F3F4 E0067 E0062 E0077 E006C E0073 E007F",
     "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
